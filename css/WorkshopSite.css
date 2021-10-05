@@ -6,8 +6,8 @@ html, body {
 }
 
 header{
-    position: fixed;
-    width: 100vw;
+    position: absolute;
+    width: 100%;
     top:0;
     height: 5em;
     background-color: #4C5FD7;
