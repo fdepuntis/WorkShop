@@ -72,13 +72,12 @@ li{
     width: 1200px;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-wrap: wrap;
     margin: auto;
 }
 
 .SousContainerBouton{
     display: flex;
-    width: 700px;
     justify-content: center;
     align-items: center;
     height: 120px;
@@ -95,7 +94,7 @@ li{
     align-items: center;
     text-transform: uppercase;
     font-size: 2em;
-    width: 600px;
+    width: 500px;
     height: 100px;
     margin: auto;
     color: white;
