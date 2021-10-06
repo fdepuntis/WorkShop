@@ -4,6 +4,17 @@ html, body {
     padding:0;
     width: 100%;
 }
+/* ------ footer images ----*/
+
+conteneur_images {
+height : auto; 
+  display: flex;
+  margin : auto;
+ 
+  align-content : center; 
+  justify-content: center;
+}
+
 
 header{
     position: absolute;
