@@ -3338,7 +3338,7 @@ justify-content: space-between;
 padding-top: 0.3125rem;
 padding-bottom: 0.3125rem;
 margin-right: 1rem;
-font-size: 1.5rem;
+font-size: 1.4rem;
 white-space: nowrap;
 }
 .navbar-nav {
@@ -10397,7 +10397,7 @@ padding: 0.75rem;
 text-transform: uppercase;
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link {
-font-size: 1.5rem;
+font-size: 1.3rem; /*--Taille menu index.html*/
 font-weight: 800;
 letter-spacing: 0.0625em;
 text-transform: uppercase;
